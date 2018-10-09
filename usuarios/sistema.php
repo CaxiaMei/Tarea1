@@ -13,7 +13,7 @@
                                     'dos'=>'<a href="cerrar.php">Cerrar sesión</a>'));
   
   HTML::cuerpo($body);
-  
+  Select * from base; 
   HTML::pie();
  } else {
     //echo 'Área prohibida';
