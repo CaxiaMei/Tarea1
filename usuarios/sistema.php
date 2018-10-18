@@ -27,3 +27,4 @@ HTML::tabla($usuarios,'usuarios',$cols);
     //echo 'Área prohibida';
     header('Location: .?error=1');
  }
+ 
